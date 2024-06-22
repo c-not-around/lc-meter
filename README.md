@@ -1,5 +1,6 @@
 Capabilities:
-* capacity - 1pF...1uF; inductance - 100nH...5H
+* capacity - 1pF...1uF
+* inductance - 100nH...5H
 * capacity of electrolytic capacitors (I limit) - 5nF...1mF
 * capacity of electrolytic capacitors (II limit) - 50nF...10mF
 
